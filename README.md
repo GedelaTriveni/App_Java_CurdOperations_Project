@@ -1,6 +1,6 @@
-# Crud Operations
-
 ![alldata](https://github.com/user-attachments/assets/3e7933f8-13a6-426a-a7a7-3d4e742205e3)
+# Crud Operations
+![operations](https://github.com/user-attachments/assets/fdf7aa1a-e119-4235-a4a6-0b23603f8542)
 # Create Database
 ![c1](https://github.com/user-attachments/assets/3027f47e-8673-40e4-9664-37d8ac2c7714)
 # Create Table
